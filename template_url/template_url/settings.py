@@ -26,7 +26,7 @@ SECRET_KEY = '(4s7diqna(!5#*a)_ji@a2+26_2(uw1*(6y=jf_rox0((+zp_*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS =['babita971.pythonanywhere.com']
 
 
 # Application definition
